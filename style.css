@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.masala{
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 40vh;
+    background-color: rgb(228, 140, 26);
+    width: 600px;
+    border-radius: 25px;
+    
+}
+b{
+    font-size: 100px;
+}
+a{
+    color: rgb(18, 70, 240);
+}
+.bx{
+    font-size: 20px;
+    border: 3px solid rgb(18, 70, 240);
+    border-radius: 50%;
+    padding: 5px;
+}
